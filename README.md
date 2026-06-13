@@ -13,8 +13,8 @@ This repo hosts a **free sample**: one showcase zone (**France**, all years) of 
 `outages_sample.parquet` (one row per outage) **and** `daily_curve_sample.parquet` (the pre-aggregated
 daily MW-offline curve).
 
-> 👉 **Full dataset — all 38 EU bidding zones, 2018–2026 (100k+ outages) + the daily MW-offline curve:**
-> **[get it here](https://app.lemonsqueezy.com/share/1140695)**
+> 👉 **Full dataset — all 38 EU bidding zones, 2018–2026 (100k+ outages) + the daily MW-offline curve —
+> launching in the next few days.** ⭐ **Star / watch this repo to get notified when it's live.**
 
 ## Who uses it
 Power traders & energy quants (outage features for price/imbalance models), BESS & flexibility operators
