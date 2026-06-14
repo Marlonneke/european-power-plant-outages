@@ -64,10 +64,10 @@ durations, decoded fuels, coverage per zone, internal consistency).
 
 ## More from ReadySet — European energy data
 Same source (ENTSO-E), same clean-Parquet treatment — all join on `zone` + `ts`:
-- [European Day-Ahead Electricity Prices](https://github.com/Marlonneke/european-day-ahead-prices)
-- [European Electricity Load / Demand](https://github.com/Marlonneke/european-electricity-load)
-- [European Power Generation by Fuel Type](https://github.com/Marlonneke/european-generation-by-fuel)
-- [European Installed Generation Capacity by Fuel](https://github.com/Marlonneke/european-installed-capacity)
+- [European Day-Ahead Electricity Prices](https://github.com/GetReadySet/european-day-ahead-prices)
+- [European Electricity Load / Demand](https://github.com/GetReadySet/european-electricity-load)
+- [European Power Generation by Fuel Type](https://github.com/GetReadySet/european-generation-by-fuel)
+- [European Installed Generation Capacity by Fuel](https://github.com/GetReadySet/european-installed-capacity)
 
 ## License
 Data: CC-BY-4.0 (attribute ENTSO-E). See source terms on the ENTSO-E Transparency Platform.
